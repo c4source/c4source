@@ -12,10 +12,13 @@ o desenvolvimento backend em Java.
 
 - Tenho desenvolvido minha base por meio de projetos e estudos contínuos em Java, orientação a objetos, APIs e bancos de dados. Procuro uma oportunidade de estágio para aplicar esse conhecimento e evoluir profissionalmente na área. 
 
-       
+
+### 🤝 Soft Skills 
+
+- Trabalho em equipe, escuta ativa, iniciativa para agir, autonomia para buscar soluções e maturidade para receber feedback.
           
 
-## Tecnologias e conhecimentos
+##  💻 Hard Skills - Tecnologias e conhecimentos 
 
 ### Foco atual
 
@@ -25,7 +28,10 @@ o desenvolvimento backend em Java.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="45" height="45" alt="GitHub" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="45" height="45" alt="Git" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" width="45" height="45" alt="C#" title="C#" />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg"
+  width="45" height="45" height="45" title="JSON"
+/>
 
 
 </p>
@@ -53,13 +59,13 @@ o desenvolvimento backend em Java.
 ## Contato
 
 <p align="left">
-  <a href="SEU_LINK_DO_LINKEDIN">
+  <a href="https://www.linkedin.com/in/gabriel-henrique-8758b0230/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Gabriel%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn de Gabriel Henrique"
     />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:gabrielhenriques4@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-Entrar%20em%20contato-2D333B?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Enviar e-mail para Gabriel Henrique"
