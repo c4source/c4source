@@ -3,7 +3,7 @@
 >**Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvimento Backend | Java**
 
 
-### 👨‍💻 ​​Sobre mim 
+### - ​​Sobre mim 
 
 - Atualmente, curso o último semestre de Análise e Desenvolvimento de Sistemas e direciono a minha formação para 
 o desenvolvimento backend em Java.
@@ -13,12 +13,12 @@ o desenvolvimento backend em Java.
 - Tenho desenvolvido minha base por meio de projetos e estudos contínuos em Java, orientação a objetos, APIs e bancos de dados. Procuro uma oportunidade de estágio para aplicar esse conhecimento e evoluir profissionalmente na área. 
 
 
-### 🤝 Soft Skills 
+### - Habilidades colaborativas
 
 - Trabalho em equipe, escuta ativa, iniciativa para agir, autonomia para buscar soluções e maturidade para receber feedback.
           
 
-##  💻 Hard Skills - Tecnologias e conhecimentos 
+##   Habilidades tecnicas - Tecnologias e conhecimentos 
 
 ### Foco atual
 
