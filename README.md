@@ -3,7 +3,7 @@
 >**Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvimento Backend | Java**
 
 
-### - ​​Sobre mim 
+###  ​​Sobre mim 
 
 - Atualmente, curso o último semestre de Análise e Desenvolvimento de Sistemas e direciono a minha formação para 
 o desenvolvimento backend em Java.
@@ -13,7 +13,7 @@ o desenvolvimento backend em Java.
 - Tenho desenvolvido minha base por meio de projetos e estudos contínuos em Java, orientação a objetos, APIs e bancos de dados. Procuro uma oportunidade de estágio para aplicar esse conhecimento e evoluir profissionalmente na área. 
 
 
-### - Habilidades colaborativas
+###  Habilidades colaborativas
 
 - Trabalho em equipe, escuta ativa, iniciativa para agir, autonomia para buscar soluções e maturidade para receber feedback.
           
@@ -66,11 +66,3 @@ o desenvolvimento backend em Java.
       src="https://img.shields.io/badge/LinkedIn-Gabriel%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn de Gabriel Henrique"
     />
-  </a>
-  <a href="mailto:gabrielhenriques4@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Entrar%20em%20contato-2D333B?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Enviar e-mail para Gabriel Henrique"
-    />
-  </a>
-</p>
